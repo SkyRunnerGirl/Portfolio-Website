@@ -30,7 +30,7 @@ export default function About() {
             id="resume-btn"
             className="justify-content-center align-items-center"
           >
-            <a className="link-opacity-75-hover" href="https://1drv.ms/b/c/0a40dd2ee00648de/EQvS-zc-yJ1OhfO7MSI_2QABbdi7dfqvBZIr00Hf-x7gzw?e=MGgx3K" target="_blank">
+            <a className="link-opacity-75-hover" href="https://drive.google.com/file/d/1eB2mZVDU8Xnl7Ryg-O58AfRhMiebD3ri/view?usp=sharing" target="_blank">
               Download Resume
             </a>
           </button>
