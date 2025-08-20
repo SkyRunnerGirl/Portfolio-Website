@@ -13,7 +13,7 @@ export default function Contact() {
             <a href="mailto: rebecca.mcgirr@icloud.com">
               <button type="button" className="btn text-center">
                 <img
-                  src="../public/images/email.png"
+                  src="/images/email.png"
                   style={{ height: "3rem" }}
                 />
               </button>
@@ -26,13 +26,13 @@ export default function Contact() {
               target="_blank"
             >
               <img
-                src="../public/images/linkedin.png"
+                src="/images/linkedin.png"
                 style={{ height: "3rem" }}
               />
             </a>
             <a href="https://github.com/SkyRunnerGirl" target="_blank">
               <img
-                src="../public/images/github-logo.png"
+                src="/images/github-logo.png"
                 style={{ height: "3rem" }}
               />
             </a>

@@ -19,7 +19,7 @@ export default function Hero() {
         <div className="col-md-4 d-flex justify-content-center">
           <img
             id="programmer-gif"
-            src="../public/images/programmer.gif"
+            src="/images/programmer.gif"
             alt="programmer gif"
             className="rounded"
             width="250"

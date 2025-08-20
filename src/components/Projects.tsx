@@ -7,7 +7,7 @@ export default function Projects() {
           <div className="row align-items-center p-3 shadow-lg my-custom-hover-effect" style={{background: "#E9C46A"}}>
             <div className="col-4">
                 <img
-                    src="../public/images/cosmic-bookshelf.jpg"
+                    src="/images/cosmic-bookshelf.jpg"
                     alt="Cosmic Bookshelf image"
                     className="w-100"
                 />
@@ -26,7 +26,7 @@ export default function Projects() {
           <div className="row align-items-center p-3 shadow-lg my-custom-hover-effect" style={{background: "#E9C46A"}}>
             <div className="col-4">
                 <img
-                    src="../public/images/weather-app.png"
+                    src="/images/weather-app.png"
                     alt="Cosmic Bookshelf image"
                     className="w-100"
                 />

@@ -22,7 +22,7 @@ export default function Skills() {
           </div>
           <div className="col">
             <div className="card h-100 align-items-center" style={{background: 'none', border: 'none'}}>
-              <img src="../public/images/js.png" className="card-img-top" alt="JavaScript Logo" />
+              <img src="/images/js.png" className="card-img-top" alt="JavaScript Logo" />
               <div className="card-body">
                 <h5 className="card-title">JavaScript</h5>
               </div>
@@ -30,7 +30,7 @@ export default function Skills() {
           </div>
           <div className="col">
             <div className="card h-100 align-items-center" style={{background: 'none', border: 'none'}}>
-              <img src="../public/images/typescript.png" className="card-img-top" alt="TypeScript Logo" />
+              <img src="/images/typescript.png" className="card-img-top" alt="TypeScript Logo" />
               <div className="card-body">
                 <h5 className="card-title">TypeScript</h5>
               </div>
@@ -38,7 +38,7 @@ export default function Skills() {
           </div>
           <div className="col">
             <div className="card h-100 align-items-center" style={{background: 'none', border: 'none'}}>
-              <img src="../public/images/react.png" className="card-img-top" alt="React Logo" />
+              <img src="/images/react.png" className="card-img-top" alt="React Logo" />
               <div className="card-body">
                 <h5 className="card-title">React</h5>
               </div>
@@ -46,7 +46,7 @@ export default function Skills() {
           </div>
           <div className="col">
             <div className="card h-100 align-items-center" style={{background: 'none', border: 'none'}}>
-              <img src="../public/images/bootstrap.png" className="card-img-top" alt="Bootstrap Logo" />
+              <img src="/images/bootstrap.png" className="card-img-top" alt="Bootstrap Logo" />
               <div className="card-body">
                 <h5 className="card-title">Bootstrap</h5>
               </div>

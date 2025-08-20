@@ -4,7 +4,7 @@ export default function Footer() {
       <section id="footer" className="pb-4">
         <div className="d-flex align-items-center justify-content-end pe-5">
           <a href="#navbar" className="">
-            <img id="up-arrow" src="../public/images/up-arrow.png" />
+            <img id="up-arrow" src="/images/up-arrow.png" />
           </a>
         </div>
         <div className="row">
