@@ -8,7 +8,7 @@ export default function About() {
         <div className="col-md-6 d-flex justify-content-center align-items-center">
           <img
             id="about-image"
-            src="../public/images/subject.png"
+            src="/images/subject.png"
             alt="About"
           />
         </div>

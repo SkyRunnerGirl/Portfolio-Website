@@ -6,7 +6,7 @@ export default function Skills() {
         <div className="row row-cols-1 row-cols-md-3 g-4">
           <div className="col">
             <div className="card h-100 align-items-center" style={{background: 'none', border: 'none'}}>
-              <img src="/Users/rebecca/Library/CloudStorage/OneDrive-Personal/Coding Projects/portfolio-website/public/images/html-5.png" className="card-img-top" alt="HTML-5 Logo" />
+              <img src="/images/html-5.png" className="card-img-top" alt="HTML-5 Logo" />
               <div className="card-body">
                 <h5 className="card-title">HTML</h5>
               </div>
@@ -14,7 +14,7 @@ export default function Skills() {
           </div>
           <div className="col">
             <div className="card h-100 align-items-center" style={{background: 'none', border: 'none'}}>
-              <img src="../public/images/css-3.png" className="card-img-top" alt="CSS Logo" />
+              <img src="/images/css-3.png" className="card-img-top" alt="CSS Logo" />
               <div className="card-body">
                 <h5 className="card-title">CSS</h5>
               </div>
